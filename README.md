@@ -8,7 +8,7 @@ Input parameters:
 Outputs: 
           parameterEstimates (Dataframe) - contains estimates of all the inpendent variables used for building the model &
                                            is exported as Estimates.csv to the location "c_path_out"
-          modelStatistic (Dataframe)     - contains various model statistics & is exported as ModelStatistic.csv to the location "c_path_out"
+          modelStatistic (Dataframe)     - contains various model statistics & is exported as ModelStatistic.csv to the location                                                    "c_path_out"
           durbinWatsonTest (List)        - contains statistic used for testing autocorrelation
           goldfledQuantdtTest (List)     - contains statistic used for testing homoscedasticity
           ActualPredicted.png file is exported to the location "c_path_out"
