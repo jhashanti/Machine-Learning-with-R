@@ -30,4 +30,4 @@ Outputs: parameterEstimate(Data Frame) - contains estimates of all the independe
 		     LiftChart.png is exported to the location "c_path_out"
 		 
 file: Distance.R
-Description: contains various method calculating distance between two vectors
+Description: contains various method for calculating distance between two vectors
