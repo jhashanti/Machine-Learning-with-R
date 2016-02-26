@@ -11,10 +11,10 @@ Input parameters:
 Outputs: 
           
           parameterEstimates (Data Frame) - contains estimates of all the inpendent variables used for building the model &
-                                           is exported as Estimates.csv to the location "c_path_out"
-          modelStatistic (Data Frame)     - contains various model statistics & is exported as ModelStatistic.csv to the location                                                    "c_path_out"
-          durbinWatsonTest (List)        - contains statistic used for testing autocorrelation
-          goldfledQuantdtTest (List)     - contains statistic used for testing homoscedasticity
+                                            is exported as Estimates.csv to the location "c_path_out"
+          modelStatistic (Data Frame)     - contains various model statistics & is exported as ModelStatistic.csv to the location                                                 "c_path_out"
+          durbinWatsonTest (List)         - contains statistic used for testing autocorrelation
+          goldfledQuantdtTest (List)      - contains statistic used for testing homoscedasticity
           ActualPredicted.png file is exported to the location "c_path_out"
           ResidualPredicted.png file is exported to the location "c_path_out"
 
@@ -30,13 +30,12 @@ Input parameters:
 		
 Outputs: 
 
-	  parameterEstimate(Data Frame) - contains estimates of all the independent varaible used for building the model &
-					  is exported as Estimate.csv file to the location "c_path_out"
-          modelStatistic(Data Frame)    - contains various model ststistics & is exported as ModelStatistic.csv to the location                                                 "c_path_out"
+	  parameterEstimate(Data Frame) - contains estimates of all the independent varaible used for building the model & is exported 					  as Estimate.csv file to the location "c_path_out"
+	  modelStatistic(Data Frame)    - contains various model ststistics & is exported as ModelStatistic.csv to the location 						  "c_path_out"
 	  hosmerLemeshowTest(List)      - contains statistic for testing goodness of fit
 	  ks_out(Data Frame)            - for measuring the performance of the classification model
 	  GainsChart.png is exported to the location "c_path_out"
-          LiftChart.png is exported to the location "c_path_out"
+	  LiftChart.png is exported to the location "c_path_out"
 		 
 file: Distance.R
 
