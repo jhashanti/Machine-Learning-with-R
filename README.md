@@ -1,4 +1,5 @@
-###Linear Regression
+###Regression
+#####Linear Regression
 
 * [Linear Regression](http://stattrek.com/regression/linear-regression.aspx)
 * [Assumptions](http://www.statisticssolutions.com/assumptions-of-linear-regression/)
@@ -30,8 +31,9 @@ Outputs:
         goldfledQuantdtTest (List)      - Contains statistic used for testing homoscedasticity
         ActualPredicted.png file is exported to the location "c_path_out"
         ResidualPredicted.png file is exported to the location "c_path_out"
-        
-###Logistic Regression
+
+###Classification        
+#####Logistic Regression
 
 * [Logistic Regression](http://vassarstats.net/logreg1.html)
 * [Chi-Square Test](http://stattrek.com/chi-square-test/independence.aspx?Tutorial=AP)
@@ -70,7 +72,31 @@ Description:
 
 Contains function for generating Confusion Matrix for all the cut points between 0.01 & 0.99.
 ROC curve & Sensitivity - Specificity curve is plotted & exported as ROC.png & Sensitivity-Specificity.png respectively to the location "c_path_out"
-		 
+
+#####Naive Bayes
+[Simple Explanation](http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
+
+
+###Ensemble
+#####Random Forest
+
+* [Random Forest](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+* [Confidence Interval](http://www.r-bloggers.com/confidence-intervals-for-random-forests/)
+
+###Recommender System
+[Introduction](http://vikas.sindhwani.org/recommender.pdf)
+
+###Factor Analysis
+#####Mutual Information
+
+* [Mutual Information](http://www.csee.wvu.edu/~timm/cs591o/old/Lecture3.html)
+
+#####Linear Discriminant Analysis
+
+* [Linear Discriminant Analysis](http://rstudio-pubs-static.s3.amazonaws.com/35817_2552e05f1d4e4db8ba87b334101a43da.html)
+* [LDA & QDA](https://rpubs.com/ryankelly/LDA-QDA)
+* [PCA vs LDA](https://tgmstat.wordpress.com/2014/01/15/computing-and-visualizing-lda-in-r/)
+
 File: Distance.R
 
 Description: 
