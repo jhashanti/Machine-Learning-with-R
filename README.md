@@ -1,4 +1,4 @@
-###Regression
+####Supervised learning
 #####Linear Regression
 
 * [Linear Regression](http://stattrek.com/regression/linear-regression.aspx)
@@ -32,7 +32,6 @@ Outputs:
         ActualPredicted.png file is exported to the location "c_path_out"
         ResidualPredicted.png file is exported to the location "c_path_out"
 
-###Classification        
 #####Logistic Regression
 
 * [Logistic Regression](http://vassarstats.net/logreg1.html)
@@ -77,16 +76,16 @@ ROC curve & Sensitivity - Specificity curve is plotted & exported as ROC.png & S
 [Simple Explanation](http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
 
 
-###Ensemble
+####Ensemble
 #####Random Forest
 
 * [Random Forest](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 * [Confidence Interval](http://www.r-bloggers.com/confidence-intervals-for-random-forests/)
 
-###Recommender System
+####Recommender System
 [Introduction](http://vikas.sindhwani.org/recommender.pdf)
 
-###Factor Analysis
+####Factor Analysis
 #####Mutual Information
 
 * [Mutual Information](http://www.csee.wvu.edu/~timm/cs591o/old/Lecture3.html)
