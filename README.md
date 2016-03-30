@@ -72,9 +72,20 @@ Description:
 Contains function for generating Confusion Matrix for all the cut points between 0.01 & 0.99.
 ROC curve & Sensitivity - Specificity curve is plotted & exported as ROC.png & Sensitivity-Specificity.png respectively to the location "c_path_out"
 
-#####Naive Bayes
-[Simple Explanation](http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
+#####Bayesian Belief Network
 
+[Understanding Bayesian Network using bnlearn - R Package](http://www.bnlearn.com/), 1(http://www.sfds.asso.fr/ressource.php?fct=ddoc&i=1726)
+[Scoring](http://jmlr.org/papers/volume7/decampos06a/decampos06a.pdf)
+
+#####Naive Bayes
+
+* [Simple Explanation](http://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
+* [Bayesian Network vs Bayes Classifier](http://stackoverflow.com/questions/12298150/bayesian-network-vs-bayes-classifier)
+
+####Classification
+#####EM Clustering
+
+* [Expectation Maximization](http://docs.rapidminer.com/studio/operators/modeling/segmentation/expectation_maximization_clustering.html)
 
 ####Ensemble
 #####Random Forest
