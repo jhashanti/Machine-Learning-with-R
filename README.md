@@ -74,7 +74,7 @@ ROC curve & Sensitivity - Specificity curve is plotted & exported as ROC.png & S
 
 #####Bayesian Belief Network
 
-[Understanding Bayesian Network using bnlearn - R Package](http://www.bnlearn.com/), 1(http://www.sfds.asso.fr/ressource.php?fct=ddoc&i=1726)
+[Understanding Bayesian Network using bnlearn - R Package](http://www.bnlearn.com/), [1](http://www.sfds.asso.fr/ressource.php?fct=ddoc&i=1726)
 [Scoring](http://jmlr.org/papers/volume7/decampos06a/decampos06a.pdf)
 
 #####Naive Bayes
